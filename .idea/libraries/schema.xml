@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="schema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Mirror/.idea/dataSources/cdb50899-8075-464f-bd64-cc94621a352e/storage_v2/_src_/schema/sakila.oXLGyQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Mirror/.idea/dataSources/cdb50899-8075-464f-bd64-cc94621a352e/storage_v2/_src_/schema/sys.zb4BAA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

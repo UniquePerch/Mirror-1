@@ -1,0 +1,15 @@
+spring:
+  rabbitmq:
+    addresses: 47.99.66.125
+    username: willow
+    password: willow
+    virtual-host: /test
+  datasource:
+    url: jdbc:mysql://localhost:3306/mirror
+    username: root
+    password: lyh701721
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+server:
+  port: 70
